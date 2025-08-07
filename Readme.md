@@ -1,56 +1,94 @@
-# Coding Assessment L-2 Code Submission Process with Boilerplate
+# 👗 Dress Bundle Builder – Coding Assessment Level 2
 
-Welcome to the coding assessment l2. We are excited to see your skills in action. Please follow the instructions below to submit your solution.
+This is my completed solution for the **Coding Assessment Level 2**. The project allows users to create a bundle of dresses — **add at least 3 products and save 30%**. The entire logic, design, and interactivity are built using HTML, CSS, and JavaScript (no frameworks).
 
-## Getting Started
+---
 
-1. **Clone or Download:**
-   - If using Git, clone the repository using the following command:
-     ```
-     git clone https://github.com/mmdmrishabh/Coding-assessment-l2-Boilerplate-code.git
-     ```
-   - Alternatively, download the code as a ZIP file and extract it.
+## ✅ Assessment Completed
 
-2. **Navigate to Project Directory:**
+- All UI and functionality implemented as per the design and documentation.
+- Responsive layout with a clean user interface.
+- Fully working **add/remove/select bundle system**.
+- **30% discount logic** correctly applied for 3 or more items.
+- Project is tested and meets all requirements.
 
-3. **Explore the Structure:**
-Take a moment to review the project structure:
+---
 
-        project-root/
-        |-- index.html
-        |-- style.css
-        |-- script.js
-        |-- README.md
-- `index.html`: Main HTML file for your project.
-- `style.css`: CSS file for styling.
-- `script.js`: JavaScript file for scripting logic.
-- `README.md`: Documentation for your project.
-  
-> **Important:** Avoid using additional files or a single file for your code. Feel free to organize asset files by creating a separate folder.
+## 🛠️ Tech Stack Used
 
-## Development and Testing
+- HTML
+- CSS
+- JavaScript (Vanilla)
 
-4. **Start Working:**
-- Read all requirements that are shared with design files.
-- Open `index.html` in your browser to view the initial state of the project, And start coding.
-- Modify the `style.css` and `script.js` files to implement your solution.
-5. **Testing:**
-- Test your code to ensure it produces the expected output.
-- Ensure that the console (Developer Tools) does not display any errors.
+---
+
+## 📁 Project Structure
+
+
+project-root/
+│-- index.html
+│-- style.css
+│-- script.js
+│-- README.md
+└── assets/
+├── icons/
+│ ├── Plus.svg
+│ ├── Check.svg
+│ ├── Close.svg
+│ └── CaretRight.svg
+└── product-1.jpg ... product-6.jpg
 
 
 ---
-## Updated Submission Guidelines
 
-1. Fill out the form provided at [this link](https://forms.gle/Ubnfd2LGGHgwGorp6).
-2. Provide the GitHub repository link of your project in the designated field.
-3. Share the hosted link of your project in the appropriate field.
+## ✨ Features
+
+- 6 product cards displayed in a 3x2 grid layout
+- Title and description: **Create a Bundle** + "Add at least 3 products and save 30%"
+- Interactive buttons with icons:
+  - ➕ Add to Bundle
+  - ✅ Added
+  - ❌ Remove from sidebar
+- Sidebar includes:
+  - Selected product list with thumbnail, title, and price
+  - Quantity increment/decrement for each product
+  - Real-time subtotal and discount
+  - Visual progress bar (0/3 → 3/3)
+- Call-to-action button updates to **"Added to Cart"** and refreshes page automatically
+- Responsive design for both desktop and mobile
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Banti067/Frontend_Demo.git
 
 
-## Important Notes
+🔗 Submission Links
+🔗 GitHub Repo: `[your GitHub repository link here]`
 
-- Do not use any third-party libraries or frameworks.
-- Ensure that your project works as intended and is free from errors.
-- Make sure to include clear instructions on how to run your project (if necessary).
+🌐 Hosted Link: `[your hosted deployment link here]`
 
-Good luck! We look forward to reviewing your submission.
+📌 Notes
+No frameworks or third-party libraries used
+
+All logic implemented in script.js
+
+Assets and icons are placed under assets/ for clarity
+
+Fully tested and meets the brief
+
+🙌 Thank You
+This project was a great opportunity to showcase my front-end skills and implement logic-heavy UI without using any frameworks.
+
+–  `[Your Full Name Here]`
+
+
+
+
+
+
+
+
