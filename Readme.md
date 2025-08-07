@@ -71,7 +71,7 @@ project-root/
 
 🌐 Hosted Link: `[your hosted deployment link here]`
 
-📌 Notes
+ Notes
 No frameworks or third-party libraries used
 
 All logic implemented in script.js
@@ -80,10 +80,10 @@ Assets and icons are placed under assets/ for clarity
 
 Fully tested and meets the brief
 
-🙌 Thank You
+ Thank You
 This project was a great opportunity to showcase my front-end skills and implement logic-heavy UI without using any frameworks.
 
-–  `[Your Full Name Here]`
+–  P Banti
 
 
 
