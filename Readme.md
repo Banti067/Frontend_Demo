@@ -67,9 +67,9 @@ project-root/
 
 
 🔗 Submission Links
-🔗 GitHub Repo: `[your GitHub repository link here]`
+🔗 GitHub Repo: `[https://github.com/Banti067/Frontend_Demo]`
 
-🌐 Hosted Link: `[your hosted deployment link here]`
+🌐 Hosted Link: `[https://frontend-demo-banti067s-projects.vercel.app/]`
 
  Notes
 No frameworks or third-party libraries used
